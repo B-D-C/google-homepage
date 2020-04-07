@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-family: arial, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.left {
+    float:left;
+}
+
+.right {
+    float: right;
+}
+header {
+    overflow: hidden;
+    padding: 13px;
+    
+    
+}
+
+li {
+    opacity: 75%;
+    font-size: 13px;
+    padding: 10px;
+    
+}
+
+.apps  {
+    display: block;
+    position: relative;
+    width: 18px;
+    height: 18px;  
+    top: -1px; 
+} 
+
+.apps img {
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    overflow: hidden; 
+}
+
+section img {
+    padding-top: 122px;
+}
+
+.sign-in{
+    border-width: 7px 13px 8px 13px;
+    border-style: solid;
+    border-radius: 2px;
+    background-color: rgb(66, 133, 244);
+    border-color: rgb(66, 133, 244);
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: -7px;
+
+}
+
